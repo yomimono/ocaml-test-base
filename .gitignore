@@ -1,4 +1,6 @@
 _build
-crowbar.install
+*.install
 *.byte
 *.native
+input/*
+output/*
